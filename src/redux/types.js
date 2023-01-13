@@ -1,0 +1,53 @@
+// ERRORS
+export const EMPTY_ERRORS = 'EMPTY_ERRORS';
+export const GET_ERRORS = 'GET_ERRORS';
+
+// INGREDIENTS
+export const GET_INGREDIENTS = 'GET_INGREDIENTS';
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const BEFORE_INRGEDIENT = 'BEFORE_INRGEDIENT';
+
+//user Ingredeints
+export const Buy_INGREDIENT = 'Buy_INGREDIENT';
+export const GET_USER_INGREDIENTS = 'GET_USER_INGREDIENTS';
+export const BEFORE_USER_INRGEDIENT = 'BEFORE_USER_INRGEDIENT';
+export const RANDOM_PIZZA_INGREDIENTS = 'RANDOM_PIZZA_INGREDIENTS';
+
+//Categories
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_CATEGORY = 'GET_CATEGORY';
+
+// Wallet 
+export const SET_WALLET_ADDRESS = "SET_WALLET_ADDRESS";
+export const GET_WALLET_ADDRESS = "GET_WALLET_ADDRESS";
+export const GET_WALLET_DATA = "GET_WALLET_DATA";
+export const BEFORE_WALLET_DATA = "BEFORE_WALLET_DATA";
+
+// User
+export const SET_USER = "SET_USER";
+export const DISCONNECT_USER = "DISCONNECT_USER";
+
+// FAQ
+export const GET_FAQ = "GET_FAQ";
+
+// Settings
+export const GET_SETTINGS = "GET_SETTINGS";
+
+// CAVE (bake pizza, unbake pizza, rebake pizza)
+export const BEFORE_BAKE_PIZZA = "BEFORE_BAKE_PIZZA";
+export const BAKE_PIZZA = "BAKE_PIZZA";
+export const BAKED_PIZZAS = "BAKED_PIZZAS";
+export const GET_BAKED_PIZZAS_AUTH = "GET_BAKED_PIZZAS_AUTHS";
+export const UNBAKE_PIZZA = "UNBAKE_PIZZA";
+export const REBAKE_PIZZA_INGREDIENTS = "REBAKE_PIZZA_INGREDIENTS";
+export const REBAKED_PIZZA = "REBAKED_PIZZA";
+export const RANDOM_PIZZA = "RANDOM_PIZZA";
+export const GET_PIZZA = 'GET_PIZZA'
+
+// ARTIST
+export const GET_ARTISTS = "GET_ARTISTS";
+export const BEFORE_ARTISTS = "BEFORE_ARTISTS";
+
+// Rarity rewards pizza
+export const GET_RARITY_REWARD_PIZZA = "GET_RARITY_REWARD_PIZZA";
+export const BEFORE_RARITY_REWARD_PIZZA = "BEFORE_RARITY_REWARD_PIZZA"

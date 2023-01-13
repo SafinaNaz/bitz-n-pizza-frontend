@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_9" data-name="Group 9" transform="translate(-1067 -8521)">
+    <g id="Group_534" data-name="Group 534" transform="translate(0 1402)">
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(1067 7119)" fill="none" stroke="#0a0b0d" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1068 7120)" fill="#fff" stroke="#2e3138" stroke-width="1.5">
+        <circle cx="39" cy="39" r="39" stroke="none"/>
+        <circle cx="39" cy="39" r="38.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M15.626,15.76l.778-5.071H11.541V7.4A2.535,2.535,0,0,1,14.4,4.66h2.211V.343A26.952,26.952,0,0,0,12.685,0C8.68,0,6.062,2.429,6.062,6.825v3.864H1.609V15.76H6.062V32h5.479V15.76Z" transform="translate(1098.391 8545)" fill="#fd0d1b"/>
+  </g>
+</svg>

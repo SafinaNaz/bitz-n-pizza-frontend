@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_12" data-name="Group 12" transform="translate(-1167 -8521)">
+    <g id="Group_535" data-name="Group 535" transform="translate(100 1402)">
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(1067 7119)" fill="none" stroke="#0a0b0d" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1068 7120)" fill="#fff" stroke="#2e3138" stroke-width="1.5">
+        <circle cx="39" cy="39" r="39" stroke="none"/>
+        <circle cx="39" cy="39" r="38.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-twitter" data-name="Icon awesome-twitter" d="M28.711,10.11c.02.3.02.591.02.886,0,9.007-6.6,19.385-18.66,19.385A18.033,18.033,0,0,1,0,27.322a13.064,13.064,0,0,0,1.584.084A12.826,12.826,0,0,0,9.726,24.5a6.607,6.607,0,0,1-6.132-4.725,7.968,7.968,0,0,0,1.239.105,6.692,6.692,0,0,0,1.726-.232A6.755,6.755,0,0,1,1.3,12.957v-.084a6.42,6.42,0,0,0,2.964.865A6.881,6.881,0,0,1,1.34,8.064a6.964,6.964,0,0,1,.893-3.438,18.421,18.421,0,0,0,13.523,7.13,7.979,7.979,0,0,1-.162-1.561,6.687,6.687,0,0,1,6.558-6.813,6.431,6.431,0,0,1,4.792,2.152,12.622,12.622,0,0,0,4.162-1.645,6.754,6.754,0,0,1-2.883,3.755A12.762,12.762,0,0,0,32,6.587a14.41,14.41,0,0,1-3.289,3.523Z" transform="translate(1191 8544.619)" fill="#fd0d1b"/>
+  </g>
+</svg>

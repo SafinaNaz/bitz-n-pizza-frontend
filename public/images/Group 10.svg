@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_10" data-name="Group 10" transform="translate(-1267 -8621)">
+    <g id="Group_542" data-name="Group 542" transform="translate(200 1502)">
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(1067 7119)" fill="none" stroke="#0a0b0d" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1068 7120)" fill="#fff" stroke="#2e3138" stroke-width="1.5">
+        <circle cx="39" cy="39" r="39" stroke="none"/>
+        <circle cx="39" cy="39" r="38.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-telegram-plane" data-name="Icon awesome-telegram-plane" d="M31.91,7.077,27.081,30.838c-.364,1.677-1.314,2.094-2.665,1.3l-7.358-5.657-3.55,3.563a1.823,1.823,0,0,1-1.479.753l.529-7.818L26.2,10.125c.593-.552-.129-.857-.922-.306L8.415,20.9l-7.258-2.37c-1.579-.514-1.607-1.647.329-2.437L29.874,4.677c1.314-.514,2.465.306,2.036,2.4Z" transform="translate(1290.999 8642.472)" fill="#fd0d1b"/>
+  </g>
+</svg>

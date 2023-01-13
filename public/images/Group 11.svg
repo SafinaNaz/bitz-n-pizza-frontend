@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_11" data-name="Group 11" transform="translate(-1167 -8621)">
+    <g id="Group_541" data-name="Group 541" transform="translate(100 1502)">
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(1067 7119)" fill="none" stroke="#0a0b0d" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1068 7120)" fill="#fff" stroke="#2e3138" stroke-width="1.5">
+        <circle cx="39" cy="39" r="39" stroke="none"/>
+        <circle cx="39" cy="39" r="38.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_material-email" data-name="Icon material-email" d="M31.8,6H6.2A3.221,3.221,0,0,0,3.016,9.25L3,28.75A3.235,3.235,0,0,0,6.2,32H31.8A3.235,3.235,0,0,0,35,28.75V9.25A3.235,3.235,0,0,0,31.8,6Zm0,6.5L19,20.625,6.2,12.5V9.25L19,17.375,31.8,9.25Z" transform="translate(1188 8642)" fill="#fd0d1b"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_17" data-name="Group 17" transform="translate(-1067 -8621)">
+    <g id="Group_540" data-name="Group 540" transform="translate(0 1502)">
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(1067 7119)" fill="none" stroke="#0a0b0d" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1068 7120)" fill="#fff" stroke="#2e3138" stroke-width="1.5">
+        <circle cx="39" cy="39" r="39" stroke="none"/>
+        <circle cx="39" cy="39" r="38.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-twitch" data-name="Icon awesome-twitch" d="M2.883,2.25.7,7.743v22.45h7.75V34.25h4.36l4.114-4.057h5.3L30.7,21.836V2.25ZM27.8,20.4l-4.846,4.779H16.2l-4.114,4.057V25.179H5.549V5.114H27.8V20.4Zm-4.846-9.793v8.35h-2.9v-8.35Zm-6.75,0v8.35H13.3v-8.35Z" transform="translate(1091.297 8642.75)" fill="#fd0d1b"/>
+  </g>
+</svg>
